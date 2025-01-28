@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI - coding 
 - 🌱 I’m currently learning React
 - 💫 I now know HTML-CSS-JS
-- - 📫 How to reach me aminghost47@gmail.com
+- 📫 How to reach me aminghost47@gmail.com
   
 
 <!---
