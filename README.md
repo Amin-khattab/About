@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amin-khattab
 - 👀 I’m interested in AI - coding 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React-Python
 - 💫 I now know HTML-CSS-JS
 - 📫 How to reach me aminghost47@gmail.com
   
