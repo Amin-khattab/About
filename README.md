@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amin-khattab
 - 👀 I’m interested in AI - coding 
 - 🌱 I’m currently learning AI (Machine learning)
-- 💫 Know HTML, CSS, JS, Python 
+- 💫 Know HTML, CSS, JS, Python, Flask And Classical ML
 - 📫 How to reach me aminghost47@gmail.com
   
 
